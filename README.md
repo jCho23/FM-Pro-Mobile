@@ -1,4 +1,4 @@
-# FM-Pro-Mobile
+# FM Pro Mobile
 
 This demo properly illustrates how to get started with Xamarin Test Cloud.
 <br>
