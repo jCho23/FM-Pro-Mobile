@@ -23,6 +23,7 @@ namespace FCC
 		public void BeforeEachTest()
 		{
 			app = AppInitializer.StartApp(platform);
+			app.Screenshot("App Launched");
 		}
 
 		[Test]
@@ -50,7 +51,7 @@ namespace FCC
 			app.Tap(x => x.Marked("dialog_ValueField").Index(1));
 			app.Screenshot("Let's Start by Tapping on the Password Text Field");
 			app.EnterText("Microsoft");
-			app.Screenshot("Then we entered out Email, 'Microsoft'");
+			app.Screenshot("Then we entered out Password, 'Microsoft'");
 			app.DismissKeyboard();
 			app.Screenshot("Dismissed Keyboard");
 			app.Tap("dialog_Button");
