@@ -1,6 +1,6 @@
 # FM Pro Mobile
 
-This demo properly illustrates how to get started with Xamarin Test Cloud.
+This demo properly illustrates how to get started with Xamarin Test Cloud with Xamarin.UITest.
 <br>
 I have included test code samples and a fully-working test script.
 
