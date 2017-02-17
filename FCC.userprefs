@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{715488F2-69A1-4963-9153-FC044C3A7FC1}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FCC/Tests.cs">
+    <Files>
+      <File FileName="FCC/Tests.cs" Line="42" Column="3" />
+      <File FileName="FCC/AppInitializer.cs" Line="33" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.FCC PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

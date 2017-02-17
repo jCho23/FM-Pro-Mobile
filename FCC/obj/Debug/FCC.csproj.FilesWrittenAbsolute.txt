@@ -1,0 +1,7 @@
+/Users/junecho/Projects/FCC/FCC/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/junecho/Projects/FCC/FCC/bin/Debug/FCC.dll.mdb
+/Users/junecho/Projects/FCC/FCC/bin/Debug/FCC.dll
+/Users/junecho/Projects/FCC/FCC/obj/Debug/FCC.dll
+/Users/junecho/Projects/FCC/FCC/obj/Debug/FCC.dll.mdb
+/Users/junecho/Projects/FCC/FCC/bin/Debug/nunit.framework.dll
+/Users/junecho/Projects/FCC/FCC/bin/Debug/Xamarin.UITest.dll
